@@ -1,0 +1,17 @@
+{
+  "name": "sgames",
+  "version": "1.5.6",
+  "description": "sg packages",
+  "main": "index.js",
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "author": "senthil",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "jasmine-core": "2.8.0",
+    "shrinkwrap": "^0.4.0",
+    "underscore": "1.8.3"
+  }
+}
